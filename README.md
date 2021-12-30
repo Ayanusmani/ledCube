@@ -1,5 +1,9 @@
 # ledCube
 
+## Demo Video
+https://www.youtube.com/watch?v=epSIzQugRj4&ab_channel=AyanUsmani
+
+##
 Components Used:
 
 - 1x 20x2 PICAXE chip
@@ -16,8 +20,7 @@ Components Used:
 - 1x Push Button
 - Jumper cables
 
-## Demo Video
-https://www.youtube.com/watch?v=epSIzQugRj4&ab_channel=AyanUsmani
+
 
 ## Images
 
