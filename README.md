@@ -2,8 +2,8 @@
 
 Components Used:
 
--1x 20x2 PICAXE chip
--3x 100Ω Resistor
+- 1x 20x2 PICAXE chip
+- 3x 100Ω Resistor
 -3x 680Ω Resistor
 -1x 1kΩ Resistor
 -1x 4.7kΩ Resistor 
